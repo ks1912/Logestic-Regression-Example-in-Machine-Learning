@@ -1,6 +1,6 @@
 # Logestic-Regression-Example-in-Machine-Learning
 
-#Specification
+# Specification
 -------------------------------------------------------------------------
 
 1. IDE used --> Spyder (3.3.6)
@@ -13,7 +13,7 @@
 
 5. Anaconda --> 4.7.10
 
-#OUTPUT 
+# OUTPUT 
 --------------------------------------------------------------------------------------
 Output will be in form of a graph divided into two parts 
 
