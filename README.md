@@ -20,3 +20,5 @@ Output will be in form of a graph divided into two parts
 1. Green 
 
 2. Red
+
+There will be red dots as well as green dots which will help in understanding thew set easily
